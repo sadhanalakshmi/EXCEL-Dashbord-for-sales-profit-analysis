@@ -7,7 +7,9 @@ The Sales and Profit Analysis Dashboard was developed using Microsoft Excel to p
 OBJECTIVE
 
 Monitor  overall sales and profit performance and Compare sales and profit across regions.
+
 Analyze monthly,yearly sales and profit trends.
+
 Support data-driven decision-making through interactive visualizations.
 
 Dashboard Features And Key Findings
