@@ -9,6 +9,24 @@ OBJECTIVE
 Monitor  overall sales and profit performance and Compare sales and profit across regions.
 Analyze monthly,yearly sales and profit trends.
 Support data-driven decision-making through interactive visualizations.
-<img width="1121" height="134" alt="image" src="https://github.com/user-attachments/assets/7eb2837f-a22a-49b5-86f0-942fe2369cc1" />
+
+Dashboard Features And Key Findings
+
+Filter for 1. Region : East, North, South, and West.  2. Year : 2024 and 2025.  3.Month : January to December.
+Charts for Sales by Region, Sales by Month, Profit by Region, Profit by Month, Sales by Year and Region, and Profit by Year and Region.
+KPI Cards displaying Total Sales (481,472.04) and Total Profit (144,441.61).
+The West region recorded the highest sales and profit contribution.
+Monthly sales and profit values show fluctuations, indicating seasonal business trends.
+Year-wise comparisons help identify growth opportunities and regional performance differences.
+
+Conclusion
+
+The dashboard provides a comprehensive view of organizational sales and profit performance through interactive reports and visual analytics. It helps management quickly identify trends, evaluate regional performance, and make informed business decisions, thereby improving operational efficiency and strategic planning.
+
+
+
+
+
+
 
 
